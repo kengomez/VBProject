@@ -1,0 +1,12 @@
+C:\Users\SUNSHINE\Documents\Visual Studio 2010\Projects\Gomez_VB\Gomez_VB\bin\Debug\Gomez_VB.exe
+C:\Users\SUNSHINE\Documents\Visual Studio 2010\Projects\Gomez_VB\Gomez_VB\bin\Debug\Gomez_VB.pdb
+C:\Users\SUNSHINE\Documents\Visual Studio 2010\Projects\Gomez_VB\Gomez_VB\bin\Debug\Gomez_VB.xml
+C:\Users\SUNSHINE\Documents\Visual Studio 2010\Projects\Gomez_VB\Gomez_VB\obj\x86\Debug\Gomez_VB.Form2.resources
+C:\Users\SUNSHINE\Documents\Visual Studio 2010\Projects\Gomez_VB\Gomez_VB\obj\x86\Debug\Gomez_VB.Form3.resources
+C:\Users\SUNSHINE\Documents\Visual Studio 2010\Projects\Gomez_VB\Gomez_VB\obj\x86\Debug\Gomez_VB.Resources.resources
+C:\Users\SUNSHINE\Documents\Visual Studio 2010\Projects\Gomez_VB\Gomez_VB\obj\x86\Debug\Gomez_VB.vbproj.GenerateResource.Cache
+C:\Users\SUNSHINE\Documents\Visual Studio 2010\Projects\Gomez_VB\Gomez_VB\obj\x86\Debug\Gomez_VB.exe
+C:\Users\SUNSHINE\Documents\Visual Studio 2010\Projects\Gomez_VB\Gomez_VB\obj\x86\Debug\Gomez_VB.xml
+C:\Users\SUNSHINE\Documents\Visual Studio 2010\Projects\Gomez_VB\Gomez_VB\obj\x86\Debug\Gomez_VB.pdb
+C:\Users\SUNSHINE\Documents\Visual Studio 2010\Projects\Gomez_VB\Gomez_VB\obj\x86\Debug\Gomez_VB.Form4.resources
+C:\Users\SUNSHINE\Documents\Visual Studio 2010\Projects\Gomez_VB\Gomez_VB\obj\x86\Debug\Gomez_VB.SplashScreen1.resources
